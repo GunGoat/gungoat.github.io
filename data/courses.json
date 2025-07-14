@@ -1,5 +1,15 @@
 [
   {
+    "code": "1DV437",
+    "name": "Introduction to Game Programming",
+    "repository": "",
+    "credits": 7.5,
+    "grade": "G",
+    "gradingScale": "U, G",
+    "tags": ["C#", "Unity"],
+    "program": "standalone"
+  },
+  {
     "code": "MFY006",
     "name": "Mechanics I",
     "repository": "",
@@ -246,7 +256,7 @@
     "credits": 7.5,
     "grade": "VG",
     "gradingScale": "U, G, VG",
-    "tags": ["MATLAB"],
+    "tags": ["MATLAB", "Math"],
     "program": "master"
   },
   {
@@ -296,7 +306,7 @@
     "credits": 7.5,
     "grade": "5",
     "gradingScale": "U, 3, 4, 5",
-    "tags": [],
+    "tags": ["Math"],
     "program": "bachelor"
   },
   {
@@ -386,7 +396,7 @@
     "credits": 7.5,
     "grade": "3",
     "gradingScale": "U, 3, 4, 5",
-    "tags": [],
+    "tags": ["Math"],
     "program": "bachelor"
   },
   {
@@ -406,7 +416,7 @@
     "credits": 7.5,
     "grade": "5",
     "gradingScale": "U, 3, 4, 5",
-    "tags": [],
+    "tags": ["Math"],
     "program": "bachelor"
   },
   {
@@ -456,7 +466,7 @@
     "credits": 7.5,
     "grade": "5",
     "gradingScale": "U, 3, 4, 5",
-    "tags": [],
+    "tags": ["Math"],
     "program": "bachelor"
   },
   {
